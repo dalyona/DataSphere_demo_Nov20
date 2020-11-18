@@ -10,4 +10,6 @@ This notebook is a partial copy of https://www.kaggle.com/ash316/novice-to-grand
 
 This notebook was created as a part of demo for Yandex DataSphere product
 
-For full instruction for the demo step-by-step please go to file "Demo Yandex DataShere.pdf"
+For full instruction for the demo step-by-step please refer to the file "Demo_Yandex_DataShere_Nov2020.pdf
+
+"
